@@ -10,3 +10,5 @@ test
 
 		
 		again from eclipse
+		
+		now from repo
